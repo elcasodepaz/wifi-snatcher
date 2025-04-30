@@ -65,7 +65,7 @@ sudo airmon-ng stop wlan0mon
 ---
 
 ## 🧠 Author
-**The Gramajo ThreatOps HQ** — from the border to the terminal. 
+**The Gramajo ThreatOps HQ** — from hardhats to the terminal. 
 Still learning. Still building. Always adapting.
 
 ---
